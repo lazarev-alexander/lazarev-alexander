@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A software developer from Moscow</h3>
 
-<!--
-**lazarev-alexander/lazarev-alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python develoer. Graduated from the MIET Institute.Specialty - software engineer. <br>
+Over 3 years of programming experience
 
-Here are some ideas to get you started:
+## 💻 I have experience in
+### backend
+- Python
+- Django framework
+- Flask
+- Fastapi
+### dapps
+- Javascript
+- Hardhat
+- Solidity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Hobbies
+- Fan of custom mechanical keyboards ⌨️
+- Table tennis player 🏓
+- Play videogames 🎮
+- etc.
