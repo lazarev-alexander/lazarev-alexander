@@ -6,14 +6,12 @@ Over 3 years of programming experience
 
 ## 💻 I have experience in
 ### dapps
+- Solidity (EVM)
+- Ride (Waves blockchain)
 - Javascript
-- Hardhat
-- Solidity
 ### backend
-- Python
-- Django framework
-- Flask
-- Fastapi
+- Python (Django, Flask)
+- Go
 ## 📅 Hobbies
 - Fan of custom mechanical keyboards ⌨️
 - Table tennis player 🏓
