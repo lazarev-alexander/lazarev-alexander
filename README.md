@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Software Developer & Blockchain Enthusiast</h3>
 
-Hi, I'm Alex, a software developer with over 4 years of experience and a degree in software engineering from MIET Institute.
+Hi, I'm Alex, a software developer with over 5 years of experience and a degree in software engineering from MIET Institute.
 
 ## 💻 I have experience in
 ### dapps
